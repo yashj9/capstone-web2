@@ -1,0 +1,52 @@
+.my-creative-font {
+  font-family: "Playwrite NL", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.neg-ml-cpp {
+  margin-left: -100px;
+  margin-top: -30px;
+}
+
+.my-creative-font-secondary {
+  font-family: "Fira Code", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.my-intro-image {
+  width: 240px;
+  height: 240px;
+  border-radius: 120px;
+}
+
+.my-sensible-font {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.my-website-resume-icon {
+  width: 48px;
+  height: 48px;
+  margin-left: 10px;
+}
+
+.about-me-list {
+  margin: 0px;
+  padding: 0px;
+  list-style: none;
+}
+
+#about-me-panel {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#sticky-footer-here {
+  margin-top: auto;
+}
